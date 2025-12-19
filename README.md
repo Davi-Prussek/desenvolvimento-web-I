@@ -1,3 +1,3 @@
 # DESENVOLVIMENTO WEB I
 
-Todas as atividades realizadas por mim no meu primeiro ano letivo em desenvolvimento web I
+Este repositório possui apenas as atividades de desenvolvimento web I do professor Kennedy Araújo resolvidas por mim no ano de 2025 no IFC de Araquari.
